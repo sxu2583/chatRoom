@@ -10,6 +10,8 @@ Motivation from the robot guy
 This is just a simple side project that I wanted to get up. It sounds
 and is fun. Lets see where this goes.
 
+![Alt text](/bored.jpg?raw=true "Life of the geek")
+
 ### Task List
 - [x] Get the basic demo chat room up
 - [ ] Edit the design
