@@ -5,19 +5,19 @@ Time to create that chat room
 
 Motivation from the robot guy
 
-###Summary
+### Summary
 
 This is just a simple side project that I wanted to get up. It sounds
 and is fun. Lets see where this goes.
 
-###Task List
+### Task List
 - [x] Get the basic demo chat room up
 - [ ] Edit the design
 - [ ] Add in Nicknames
 - [ ] Add in a timestamp
 - [ ] Add in images
 
-###End goal
+### End goal
 - [ ] Deploy on heroku
 - [ ] Get friends to add in memes
 - [ ] Set a notification widget to notify of said meme
